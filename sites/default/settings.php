@@ -8,8 +8,8 @@ $databases = array (
       'database' => 'dafib_phpfogapp_com',
       'username' => 'root',
       'password' => 'D3sp4tx2011',
-      'host' => 'dafib.upc.es',
-      'port' => '',
+      'host' => 'dafib.upc.es', //localhost
+      'port' => '33333', //3306
       'driver' => 'mysql',
       'prefix' => '',
     ),
